@@ -1,0 +1,20 @@
+<resources>
+	<string name="app_name">RealmChat</string>
+	<string name="users">Users</string>
+	<string name="messages">Messages</string>
+	<string name="settings">Settings</string>
+	<string name="login">Login</string>
+	<string name="registration">Registration</string>
+	<string name="input_text">Input text</string>
+	<string name="done">Done</string>
+	<string name="email">Email</string>
+	<string name="email_hint">example@gmail.com</string>
+	<string name="input_email">Input email</string>
+	<string name="wrong_email">Wrong email</string>
+	<string name="your_password">Your password</string>
+	<string name="password">Password</string>
+	<string name="input_password">Input password</string>
+	<string name="short_password">Password minimum length 6</string>
+	<string name="incorrect_email_or_password">Incorrect email or password</string>
+	<string name="users_not_found">Users not found</string>
+</resources>
